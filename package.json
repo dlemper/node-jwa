@@ -7,9 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "base64url": "2.0.0",
+    "base64url": "3.0.0",
     "buffer-equal-constant-time": "1.0.1",
-    "ecdsa-sig-formatter": "1.0.9",
+    "ecdsa-sig-formatter": "1.0.10",
     "safe-buffer": "^5.0.1"
   },
   "devDependencies": {
